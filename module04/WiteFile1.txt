@@ -4,4 +4,4 @@ Line 3
 Finished
  line 2
 This is line 3
-This is line 5
+This line is appended in a+ mode.
