@@ -12,3 +12,7 @@ This repository contains the code for the online course "Python for Data Science
 - <ins>Course Platform</ins>: Cognitive Class
 - <ins>Course Title</ins>: Python for Data Science
 - <ins>Course URL</ins>: https://cognitiveclass.ai/courses/python-for-data-science
+
+&nbsp;
+
+*1st Completion Date: Mar 21, 2023*&emsp;
